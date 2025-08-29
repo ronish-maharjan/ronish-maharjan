@@ -1,5 +1,11 @@
 <!---Ronish Github Profile---->
 
+<!-- WEATHER-START -->
+> Current weather: Updating...
+<!-- WEATHER-END -->
+
+</br>
+
 <!---Header Section Begins From Here---->
 <samp>
 <div align="center">
@@ -9,7 +15,9 @@
 <!--Header Section Ends---->
 
 <!--About Section Begins From Here--->
+
 ## About Me
+
 <div class="about" align="center">
     <div class ="about__description">
         <h3>
@@ -29,42 +37,47 @@
 <!--About Section Ends Here--->
 
 <!--OverView Section Begins From Here-->
+
 ## GitHub Stats & Tools Overview
 
 <!--For Github Stats Section--->
+
 - <div class = "github__status">
-    <h3>Github Stats</h3>
-    <table>
-        <thead>
-            <th><img height="auto" align="center" alt="GitHub Stats" src="https://streak-stats.demolab.com?user=ronish-maharjan&theme=tokyonight&border_radius=24.6)](https://git.io/streak-stats"/></th>
-    <th><img height ="auto" width ="auto" align ="center" alt ="GitHub Stats" src ="https://github-readme-stats.vercel.app/api?username=ronish-maharjan&theme=ayu-mirage"></th>
-        </thead>
-    </table>
-    </div>
-<!--Github Stats Section Ends Here--->
+      <h3>Github Stats</h3>
+      <table>
+          <thead>
+              <th><img height="auto" align="center" alt="GitHub Stats" src="https://streak-stats.demolab.com?user=ronish-maharjan&theme=tokyonight&border_radius=24.6)](https://git.io/streak-stats"/></th>
+      <th><img height ="auto" width ="auto" align ="center" alt ="GitHub Stats" src ="https://github-readme-stats.vercel.app/api?username=ronish-maharjan&theme=ayu-mirage"></th>
+          </thead>
+      </table>
+      </div>
+  <!--Github Stats Section Ends Here--->
 
 <!--Programming Language Section-->
+
 - <div class = "programming__language">
-    <h3>Programming Language I Know</h3>
-    <table>
-        <thead>
-            <td><a href="#"><img height="auto" align="center" alt="GitHub Stats" src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark"/></a></td>
-            <td><a href="#"><img height="auto" width ="auto" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronish-maharjan&layout=compact&line_height=21&hide_border=true&theme=ayu-mirage"/></a></td>
-        </thead>
-    </table>
-    </div>
-<!--Programming Section Ends Here--->
+      <h3>Programming Language I Know</h3>
+      <table>
+          <thead>
+              <td><a href="#"><img height="auto" align="center" alt="GitHub Stats" src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark"/></a></td>
+              <td><a href="#"><img height="auto" width ="auto" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronish-maharjan&layout=compact&line_height=21&hide_border=true&theme=ayu-mirage"/></a></td>
+          </thead>
+      </table>
+      </div>
+  <!--Programming Section Ends Here--->
 
 <!--Tools Section-->
+
 - <div class = "tools_use">
-    <h3>Tools I Use</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,vim,git,discord&theme=dark"/>
-    </div>
-<!--Tools Section Ends Here--->
+      <h3>Tools I Use</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,vim,git,discord&theme=dark"/>
+      </div>
+  <!--Tools Section Ends Here--->
 
 <!--Other skill Section-->
+
 - <div class = "other_skills">
-    <h3>Other Skills</h3>
-    <img src = "https://skillicons.dev/icons?i=react,pr,ps&theme=dark">
-<!--Other Skill Section Ends Here--->
-</samp>
+      <h3>Other Skills</h3>
+      <img src = "https://skillicons.dev/icons?i=react,pr,ps&theme=dark">
+  <!--Other Skill Section Ends Here--->
+  </samp>
