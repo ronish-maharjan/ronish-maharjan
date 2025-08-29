@@ -6,6 +6,7 @@ permissions:
 on:
   schedule:
     - cron: "0 0 * * *" # 2:05 PM Nepal Time
+    - cron: "57 11 * *"
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -39,3 +40,4 @@ jobs:
           git add README.md
           git commit -m "Update weather in README" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+
