@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "22 8 * * *" # 2:05 PM Nepal Time
+    - cron: "0 0 * * *" # 2:05 PM Nepal Time
   workflow_dispatch: # Allows manual trigger
 
 jobs:
