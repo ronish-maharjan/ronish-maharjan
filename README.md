@@ -1,7 +1,7 @@
 <!---Ronish Github Profile---->
 
 <!-- WEATHER-START -->
- >🌤️ Weather: scattered clouds, 28.12°C
+ >🌤️ Weather: broken clouds, 20.41°C
 <!-- WEATHER-END -->
 
 </br>
