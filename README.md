@@ -1,7 +1,7 @@
 <!---Ronish Github Profile---->
 
 <!-- WEATHER-START -->
- >🌤️ Weather: haze, 24.12°C
+ >🌤️ Weather: mist, 20.12°C
 <!-- WEATHER-END -->
 
 </br>
