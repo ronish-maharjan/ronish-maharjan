@@ -1,7 +1,7 @@
 <!---Ronish Github Profile---->
 
 <!-- WEATHER-START -->
- >🌤️ Weather: clear sky, 23.7°C
+ >🌤️ Weather: clear sky, 32.49°C
 <!-- WEATHER-END -->
 
 </br>
