@@ -59,7 +59,7 @@
       <h3>Programming Language I Know</h3>
       <table>
           <thead>
-              <td><a href="#"><img height="auto" align="center" alt="GitHub Stats" src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark"/></a></td>
+              <td><a href="#"><img height="auto" align="center" alt="GitHub Stats" src="https://skillicons.dev/icons?i=python,html,css,typescript,js&theme=dark"/></a></td>
               <td><a href="#"><img height="auto" width ="auto" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronish-maharjan&layout=compact&line_height=21&hide_border=true&theme=ayu-mirage"/></a></td>
           </thead>
       </table>
@@ -70,7 +70,7 @@
 
 - <div class = "tools_use">
       <h3>Tools I Use</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,vim,git,discord&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=vscode,vim,git&theme=dark"/>
       </div>
   <!--Tools Section Ends Here--->
 
@@ -78,6 +78,6 @@
 
 - <div class = "other_skills">
       <h3>Other Skills</h3>
-      <img src = "https://skillicons.dev/icons?i=react,pr,ps&theme=dark">
+      <img src = "https://skillicons.dev/icons?i=pr,ps&theme=dark">
   <!--Other Skill Section Ends Here--->
   </samp>
