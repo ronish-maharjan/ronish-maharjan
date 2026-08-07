@@ -1,7 +1,7 @@
 <!---Ronish Github Profile---->
 
 <!-- WEATHER-START -->
- >🌤️ Weather: moderate rain, 25.36°C
+ >🌤️ Weather: light rain, 21.67°C
 <!-- WEATHER-END -->
 
 </br>
