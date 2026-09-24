@@ -1,7 +1,7 @@
 <!---Ronish Github Profile---->
 
 <!-- WEATHER-START -->
- >🌤️ Weather: overcast clouds, 18.12°C
+ >🌤️ Weather: moderate rain, 17.12°C
 <!-- WEATHER-END -->
 
 </br>
